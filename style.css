@@ -1,0 +1,11 @@
+*{
+	margin:0 auto;
+	box-sizing: border-box;
+}
+.container6{
+	text-align: center;
+	flex-flow: column;
+	position: absolute;
+	top: 25%;
+	right: 35%;
+}
